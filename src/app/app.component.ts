@@ -1,9 +1,7 @@
 import { Component } from '@angular/core';
 import { OnInit, ViewChild } from '@angular/core';
 import {RouterLink, RouterOutlet} from '@angular/router';
-//import { HeaderContentComponent } from './public/components/header-content/header-content.component';
 import { FooterContentComponent } from './public/components/footer-content/footer-content.component';
-//import { IssueResolutionListComponent } from "./issue-resolutions/components/issue-resolution-list/issue-resolution-list.component";
 import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
 import { MatToolbarModule } from '@angular/material/toolbar';
