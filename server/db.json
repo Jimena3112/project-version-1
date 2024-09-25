@@ -1,0 +1,81 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "description": "Food residue and accumulated grease on work stations",
+      "issue_to_solve": "Dirty surfaces",
+      "inspection_date": "05-07-2024",
+      "inspection_area": "Kitchen",
+      "inspector": "Andres Hurtado",
+      "personal_responsible": "Kitchen Helpers",
+      "inspection_status": "Completed",
+      "recommendation": "Implement a cleaning protocol with specific schedules"
+    },
+    {
+      "id": 2,
+      "description": "Refrigerators that do not maintain the proper temperature",
+      "issue_to_solve": "Inadequate temperatures",
+      "inspection_date": "12-07-2024",
+      "inspection_area": "Storage Area",
+      "inspector": "Andres Hurtado",
+      "personal_responsible": "Warehouse Manager",
+      "inspection_status": "On going",
+      "recommendation": "Install thermometers in refrigerators and freezers"
+    },
+    {
+      "id": 3,
+      "description": "No soap or toilet paper",
+      "issue_to_solve": "Lack of supplies",
+      "inspection_date": "23-09-2024",
+      "inspection_area": "Restroom",
+      "inspector": "Andres Hurtado",
+      "personal_responsible": "Cleaning Staff",
+      "inspection_status": "To start",
+      "recommendation": "Perform regular checks to ensure that there is soap and toilet paper"
+    },
+    {
+      "id": 4,
+      "description": "Food and drink residue on tables",
+      "issue_to_solve": "Dirty tables",
+      "inspection_date": "04-08-2024",
+      "inspection_area": "Dining Room",
+      "inspector": "Andres Hurtado",
+      "personal_responsible": "Waiters",
+      "inspection_status": "Completed",
+      "recommendation": "Establish a protocol for cleaning tables between each customer."
+    },
+    {
+      "id": 5,
+      "description": "Ovens that do not heat properly",
+      "issue_to_solve": "Poor equipment",
+      "inspection_date": "16-09-2024",
+      "inspection_area": "Kitchen",
+      "inspector": "Andres Hurtado",
+      "personal_responsible": "Kitchen Helpers",
+      "inspection_status": "To start",
+      "recommendation": "Perform regular preventive maintenance and immediate repairs."
+    },
+    {
+      "id": 6,
+      "description": "Expired products stored",
+      "issue_to_solve": "Spoiled food",
+      "inspection_date": "06-09-2024",
+      "inspection_area": "Storage Area",
+      "inspector": "Andres Hurtado",
+      "personal_responsible": "Warehouse Manager",
+      "inspection_status": "On going",
+      "recommendation": "Perform regular inspections to remove expired products."
+    },
+    {
+      "id": 7,
+      "description": "Dirty toilets and sinks",
+      "issue_to_solve": "Poor cleaning",
+      "inspection_date": "15-08-2024",
+      "inspection_area": "Restroom",
+      "inspector": "Andres Hurtado",
+      "personal_responsible": "Cleaning Staff",
+      "inspection_status": "Completed",
+      "recommendation": "Create a detailed cleaning schedule and assign responsible personnel"
+    }
+  ]
+}

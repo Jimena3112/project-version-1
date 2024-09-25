@@ -1,0 +1,23 @@
+{
+  "filter": {
+    "label": "Filter",
+    "placeholder": "Enter text to filter"
+  },
+  "title": {
+    "issues": "Issues",
+    "add": "New Issue",
+    "edit": "Edit Issue"
+  },
+  "issue": {
+    "id": "No.",
+    "issueToSolve": "Issue To Solve",
+    "description": "Description",
+    "inspection-date": "Inspection Date",
+    "actions": "Actions"
+  },
+  "footer": {
+    "rights": "Copyright © 2024, All rights reserved",
+    "intro": "Developed ",
+    "author": "by {{ team }} Team"
+  }
+}
